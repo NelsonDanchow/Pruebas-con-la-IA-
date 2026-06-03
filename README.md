@@ -1,22 +1,29 @@
-# Pruebas con la IA 🚀
+<div align="center">
+  <img src="https://github.com/NelsonDanchow/NelsonDanchow/blob/main/banner.jpg" alt="Banner" width="100%" style="border-radius: 12px;"/>
+</div>
 
-Repositorio de práctica donde estoy retomando y mejorando mis habilidades en **Linux, Git, GitHub y Bash Scripting** con la ayuda de Grok.
+<br>
+
+# Pruebas con la IA 🌌
+
+> *Explorando el universo de Linux, Git y Bash Scripting*
+
+Repositorio de práctica y entrenamiento donde estoy reactivando y fortaleciendo mis habilidades técnicas.
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Objetivo de la Misión
 
-Este repositorio sirve como espacio de entrenamiento activo. Voy subiendo scripts, resolviendo tareas y documentando mi progreso día a día.
+Este es mi **laboratorio personal** en el espacio digital. Aquí practico, experimento y documento mi progreso día a día.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías en Órbita
 
-- **Linux** (Ubuntu/Debian en VM)
-- **Bash Scripting**
-- **Git & GitHub** (Flujo profesional)
-- **VS Code / Nano**
-- Automatización y administración de sistemas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -25,14 +32,9 @@ Este repositorio sirve como espacio de entrenamiento activo. Voy subiendo script
 ```bash
 Pruebas-con-la-IA/
 ├── scripts/
-│   └── bash/
-│       ├── saludo.sh
-│       ├── info-sistema.sh
-│       ├── analisis-disco.sh
-│       ├── monitor-recursos.sh
-│       ├── backup-rapido.sh
-│       └── toma-stock-basica.sh
+│   └── bash/           # Scripts en órbita
 ├── docs/
 ├── .gitignore
-└── README.md
-*Hechoooo con ❤️ y café o chocolate caliente en la fria Ushuaia*
+└── README.md# Pruebas con la IA 🚀
+
+Hechoooo con ❤️ y café o chocolate caliente en la fria Ushuaia
