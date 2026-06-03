@@ -26,7 +26,14 @@ Practicar de forma progresiva comandos y flujos de trabajo reales.
 ### Bash
 - [✅] `saludo.sh` - Script de bienvenida
 - [✅] `info-sistema.sh` - Muestra información del sistema
+- [✅] `analisis-disco.sh` → Análisis de uso de disco y archivos grandes
+- [✅] `monitor-recursos.sh` → Monitor de CPU, RAM y procesos
+- [✅] `backup-rapido.sh` → Crea backups automáticos de este proyecto
 
+### Próximos scripts (Ideas)
+- Script de toma de stock
+- Automatización de backups diarios
+- Monitor de temperatura y alertas
 
 ---
 
