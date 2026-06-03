@@ -1,0 +1,4 @@
+Producto,Cantidad,Precio
+Mouse,15,25.50
+Teclado,8,45.00
+Monitor,5,180.00
