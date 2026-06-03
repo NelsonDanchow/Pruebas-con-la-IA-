@@ -21,6 +21,13 @@ Practicar de forma progresiva comandos y flujos de trabajo reales.
 - [✅] Configuración de Git + Token
 - [ ] Tarea 1 - README mejorado
 
+## Scripts Creados
+
+### Bash
+- [✅] `saludo.sh` - Script de bienvenida
+- [✅] `info-sistema.sh` - Muestra información del sistema
+
+
 ---
 
 *Hecho con ❤️ y café en Ushuaia*
