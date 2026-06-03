@@ -30,11 +30,34 @@ Este es mi **laboratorio personal** en el espacio digital. Aquí practico, exper
 ## 📂 Estructura del Proyecto
 
 ```bash
+```bash
 Pruebas-con-la-IA/
 ├── scripts/
-│   └── bash/           # Scripts en órbita
-├── docs/
+│   └── bash/
+│       ├── saludo.sh
+│       ├── info-sistema.sh
+│       ├── analisis-disco.sh
+│       ├── monitor-recursos.sh
+│       ├── backup-rapido.sh
+│       ├── toma-stock-basica.sh
+│       └── toma-stock-avanzada.sh
 ├── .gitignore
-└── README.md# Pruebas con la IA 🚀
+└── README.md
+
+Script,Descripción,Estado
+saludo.sh,Saludo épico con información del sistema,✅
+info-sistema.sh,Información completa del sistema,✅
+analisis-disco.sh,Análisis de disco y archivos grandes,✅
+monitor-recursos.sh,"Monitor en tiempo real de CPU, RAM y procesos",✅
+backup-rapido.sh,Backup automático del proyecto,✅
+toma-stock-basica.sh,Toma de stock básica,✅
+toma-stock-avanzada.sh,Toma de stock con menú interactivo,✅
+
+
+
+
+
+
+  # Pruebas con la IA 🚀
 
 Hechoooo con ❤️ y café o chocolate caliente en la fria Ushuaia
